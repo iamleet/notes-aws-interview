@@ -1,0 +1,3 @@
+dev at /home/dev contains the following:
+wget www.google.com
+lost+found at /home/lost+found contains the following:
